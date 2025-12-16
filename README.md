@@ -48,10 +48,4 @@
 ---
 
 ### 📫 How to reach me:
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/a_man_in_a_suit)
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=I+code+with+passion;Linux+is+my+safe+haven;React+and+Go+are+my+tools;Design+matters+too~" />
-</p>
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/jager56meister)
