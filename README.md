@@ -2,6 +2,7 @@
 
 <p align="center">
   💻 Software Engineering student at <b>Astana IT University</b><br>
+  💼 Currently working at KazScanService in Astana Hub as Front-End Dev, QA Engineer, UX/UI & Web-Design at the same time <br>
   🛠 Passionate about clean code, full-stack magic & UI/UX design<br>
   🌌 I love blending functionality with beauty — both in code and visuals
 </p>
@@ -32,8 +33,12 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-000000?logo=redis)
 
-#### 🧰 Tools:
+#### 🧰 QA:
 ![Postman](https://img.shields.io/badge/-Postman-000000?logo=postman)
+![Playwright](https://img.shields.io/badge/-Playwright-000000?logo=playwright)
+![Allure](https://img.shields.io/badge/-Allure-000000?logo=allure)
+
+### 🎨 UX/UI & Web-Design:
 ![Figma](https://img.shields.io/badge/-Figma-000000?logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000000?logo=adobephotoshop)
 
