@@ -35,6 +35,7 @@
 
 #### 🧰 QA:
 ![Postman](https://img.shields.io/badge/-Postman-000000?logo=postman)
+![Jest](https://img.shields.io/badge/-Jest-000000?logo=jest)
 ![Playwright](https://img.shields.io/badge/-Playwright-000000?logo=playwright)
 ![Allure](https://img.shields.io/badge/-Allure-000000?logo=allure)
 
