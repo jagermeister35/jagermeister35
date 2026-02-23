@@ -11,14 +11,6 @@
 
 ### 🚀 Tech Stack I Work With:
 
-#### 💡 Programming Languages:
-![Go](https://img.shields.io/badge/-Go-000000?logo=go)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?logo=typescript)
-![Python](https://img.shields.io/badge/-Python-000000?logo=python)
-![C++](https://img.shields.io/badge/-C++-000000?logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-000000?logo=java)
-
 #### 🖥️ Front-End:
 ![React](https://img.shields.io/badge/-React-000000?logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
